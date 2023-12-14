@@ -1,0 +1,5 @@
+#On ne commit pas les fichiers txt. Ils peuvent etre générés par 'randomFile'
+*.txt
+DM/client
+DM/serverD
+randomFile
